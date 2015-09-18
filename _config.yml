@@ -2,9 +2,9 @@
 
 title: Perry's Test Page
 header-img: img/home-bg.jpg
-email: perrywmellis@gmail.com
+email: perrywmellis@user.noreply.gitub.com
 description: "testtesttest"
-baseurl: "/project-pages"
+baseurl: "/test_projectpage"
 url: "http://perrywmellis.github.io"
 github_username:  perrywmellis
 project_repository: test_projectpage
