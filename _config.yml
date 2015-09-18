@@ -1,14 +1,14 @@
 # Site settings
 
-title: Project Pages
+title: Perry's Test Page
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
-description: "Write your site description here. It will be used as your sites meta description as well!"
+email: perrywmellis@gmail.com
+description: "testtesttest"
 baseurl: "/project-pages"
-url: "http://matin-hub.github.io"
-github_username:  matin-hub
-project_repository: project-pages
-disqus_shortname: project-pages
+url: "http://perrywmellis.github.io"
+github_username:  perrywmellis
+project_repository: test_projectpage
+disqus_shortname: test_projectpage
 
 # Build settings
 # Don't change these variables
